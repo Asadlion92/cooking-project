@@ -1,0 +1,29 @@
+.header-container a {
+    text-decoration: none;
+    color: black;
+}
+
+.header-container {
+    padding: 0 40px;
+}
+
+.logo {
+    height: 22vh;
+    border-radius: 50%;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-right-content {
+    display: flex;
+    justify-content: space-between;
+    width: 28rem;
+}
+
+.header-right-content a {
+    font-size: 20px;
+}
